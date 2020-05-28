@@ -1,7 +1,4 @@
 
-参考博客链接: https://blog.csdn.net/Canon_in_D_Major/article/details/79688441
-
-
 一般流程为：
 
 ①当用户登录时，前端将用户输入的用户名、密码信息传输到后台，后台用一个类对象将其封装起来，通常使用的是UsernamePasswordAuthenticationToken这个类。
